@@ -12,16 +12,14 @@ csl: ieee.csl
 ---
 
 
-
 ### 목차
 
 1. AI의 어제와 오늘
 2. AI 도구 연대기
-3. Why Positron?
-4. 튜토리얼
-5. 활용예시
-6. 파이썬이랑
-7. 마무리하며 
+3. 튜토리얼
+4. Research Workflow
+5. With 파이썬
+6. 마무리하며 
 
 # AI의 어제와 오늘
 

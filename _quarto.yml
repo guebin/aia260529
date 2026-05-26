@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   render:
-    - 260330.qmd
+    - vibe.qmd
 execute:
   cache: true
   echo: true
